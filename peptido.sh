@@ -45,6 +45,6 @@ grep -w "${peptidos[a]}" test | sort -g -k 10,10 | grep -m 1 "${peptidos[a]}" >>
 
 
 let a=$a+1
-echo ciclo $a de $limite
+echo ciclo $a
 
 done 
