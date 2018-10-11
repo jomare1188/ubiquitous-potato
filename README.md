@@ -1,5 +1,5 @@
 
-# scripts for working with in orchids files 
+# scripts to work with in orchids files 
 
 ## peptido.sh: 
 script for filtering peptides with lowest e-value for each category
