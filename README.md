@@ -17,3 +17,6 @@ script for finding common genes between groups
 
 ## grep_genes.sh:
 script for finding and extract common genes from compare.sh in the complete files
+
+## build_fasta.sh
+function for building a fasta file from one file containing the headers and other containing the sequences
