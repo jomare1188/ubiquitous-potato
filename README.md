@@ -20,3 +20,6 @@ script for finding and extract common genes from compare.sh in the complete file
 
 ## build_fasta.sh
 function for building a fasta file from one file containing the headers and other containing the sequences
+
+## Emiliana.R
+Make geom bars in order with R
